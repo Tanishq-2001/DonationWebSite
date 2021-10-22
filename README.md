@@ -1,4 +1,4 @@
-#  Spark Foundation Payment Gateway Integration Project 
+# Payment Gateway Integration Project 
 ## Getting started
 
 
